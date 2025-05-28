@@ -1,0 +1,14 @@
+# Requirements for Password Tool
+# Python 3.6 or higher required
+
+# Core dependencies
+argparse==1.4.0
+hashlib==20081119
+
+# For enhanced functionality
+# pyfiglet==0.8.post1  # For ASCII art banners
+# colorama==0.4.4      # For colored output
+# tqdm==4.62.3        # For progress bars during brute force
+
+# Minimum requirements
+python>=3.6
